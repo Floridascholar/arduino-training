@@ -1,2 +1,2 @@
 # Arduino_Training
-This is the code for the Marston Science Library Arduio training
+This is the code for the Marston Science Library Arduio training. Students learned the basics of interactive physical computing. In the training students were taught the basics of arduino prototyping: how to read a schematic and how to wire their project. Students were also taught the basics of arduino coding: how to install the Arduino IDE, how to download and edit code, and how to compile and upload their code to an Arduino board. 
