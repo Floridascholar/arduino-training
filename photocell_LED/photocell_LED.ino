@@ -27,8 +27,8 @@ void loop() {
   
   // if statement reads in the value from the photocell and
   // determines whether or not it is higher than the threshold.
-  // if it is higher than the threshold, then it turns on the
-  // LED. if not, then it turns it off
+  // if the photoPin value is less than the threshold, then it 
+  // turns on the LED. else, it turns the LED off
   if (analogRead(photoPin) > threshold) {
     digitalWrite(ledPin, LOW);
   }
